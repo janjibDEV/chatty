@@ -1,0 +1,1 @@
+export const chat_temp = [{Computer:"Good Morning"},{User1:"Hi"}]
